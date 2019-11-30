@@ -10,13 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6e5477b705245e047862b1616ecd1968, type: 3}
-  m_Name: StartingState
+  m_Name: Room 2
   m_EditorClassIdentifier: 
-  storyText: "Festers. Everywhere. Armed mostly with gas-powered rock flingers.\r\nAt
-    least 10 of them guarding the hangar door. Typical.\r\n\r\nCould try punching
-    my way through. Or sneaking the long way to the emergency exit.\r\n\r\nWhat should
-    I do?\r\n1. Take them head on - rush the 10 guards.\r\n2. Sneak my way to the
-    emergency exit."
+  storyText: Okay, this looks like room 2
   nextStates:
   - {fileID: 11400000, guid: bbfa595f1d0d68e4781b4f1e5c9c67ca, type: 2}
-  - {fileID: 11400000, guid: 1bc5db240b91fd74ba5465802a51f88f, type: 2}
+  - {fileID: 11400000, guid: d7276901b7b4c074c895d24bdbedbe07, type: 2}
